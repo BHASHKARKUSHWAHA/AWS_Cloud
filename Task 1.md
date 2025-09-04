@@ -101,6 +101,31 @@ select Bucket > Upload a file.
 **install or update the latest version of awscli**> 
 **Linux**
 
-# #Sudo apt-get update
-# #sudo apt install unzip
+# $Sudo apt-get update
+# $sudo apt install unzip
+
+on chrome :- Installing or updating to the latest version of the AWS CLI,</br>
+AWS CLI install and update instructions.</br>
+**To install the AWS CLI, run the following commands**</br>
+
+$ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip" </br>
+
+copy zip file and paste in remote cli </br>
+
+$ unzip awscliv2.zip </br>
+$ cd aws 
+$ ls
+$ aws Cat install
+$ sudo ./aws/install
+$ aws --version
+
+$ aws configure </br>
+#Aws Console > IAM > Users > aws-demo-user > create access key > CLI > i understand > next > create Access key.</br>
+(i) Access Key   (ii) Secret Access Key </br>
+copy and Paste on remote cli </br>
+
+$ aws s3 ls
+check upload file in s3.
+
+
 
