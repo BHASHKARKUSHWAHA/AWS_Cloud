@@ -3,7 +3,7 @@ Task 1 :- Create EC2 Instance ? </br>
 Task 2 :- Create A User ? </br>
 Task 3 :- Create A s3 Bucket ?
 
-**Task 1 - Create EC2 Instance ?**
+**Task-1 :- Create EC2 Instance ?**
 
 **Step 1: Sign in to AWS Console** </br>
 Go to https://aws.amazon.com/
@@ -81,4 +81,4 @@ Enter </br>
 Now you are connected to remote Server on Local Cli.
 
 
-                                                         **Task 2 :- Create A User ?** </br>
+                                                         **Task-2 :- Create a User ?**
