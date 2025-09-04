@@ -24,8 +24,6 @@ Click on "EC2"
 **Step 3: Launch Instance**</br>
 Click "Launch Instance" button
 
-Choose "Launch Instance" from dropdown
-
 **Step 4: Configure Instance Details**
 
 **1. Name and Tags**
