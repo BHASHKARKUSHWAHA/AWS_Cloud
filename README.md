@@ -5,22 +5,23 @@ Task 3 :- Create A s3 Bucket ?
 
 **Create EC2 Instance ?**
 
-**Creating an EC2 Instance: Step-by-Step Guide**
-**Step 1: Sign in to AWS Console**
+**Creating an EC2 Instance:** </br>
+
+**Step 1: Sign in to AWS Console** </br>
 Go to https://aws.amazon.com/
 
 Click "Sign In to the Console"
 
 Enter your credentials
 
-**Step 2: Navigate to EC2 Service**
+**Step 2: Navigate to EC2 Service**</br>
 From AWS Management Console
 
 Search for "EC2" in services
 
 Click on "EC2"
 
-**Step 3: Launch Instance**
+**Step 3: Launch Instance**</br>
 Click "Launch Instance" button
 
 Choose "Launch Instance" from dropdown
