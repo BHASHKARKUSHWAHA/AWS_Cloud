@@ -3,7 +3,7 @@ Task 1 :- Create EC2 Instance ? </br>
 Task 2 :- Create A User ? </br>
 Task 3 :- Create A s3 Bucket ?
 
-**Task-1 :- Create EC2 Instance ?**
+                                                              **Task-1 :- Create EC2 Instance ?**
 
 **Step 1: Sign in to AWS Console** </br>
 Go to https://aws.amazon.com/
@@ -82,3 +82,14 @@ Now you are connected to remote Server on Local Cli.
 
 
                                                          **Task-2 :- Create a User ?**
+
+Aws Console > Search IAM > Users > Create User > username :- aws-demo-user > Attach Policies > </br>
+Amazons3FullAccess </br>
+AmazonEc2FullAccess </br>
+Create User.
+
+                                                        **Task-3 :- Create s3 Bucket ?**
+Aws Console > Search s3 > Buckets > Create Bucket > </br>
+name :- aws-demo-bucket
+block public Access :- NA
+I Acknowledge > Create Bucket.
