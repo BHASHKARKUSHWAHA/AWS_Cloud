@@ -55,29 +55,29 @@ Security Groups: Create new
 
 Add rules: SSH (port 22), HTTP (80), HTTPS (443)
 
-**6. Configure Storage**
+**6. Configure Storage** </br>
 Root volume (8 GB)
 
-**Step 5: Review and Launch**
-Review all configurations
+**Step 5: Review and Launch** </br>
+Review all configurations </br>
 
 Click "Launch Instance"
 
-**Step 6: Connect to Instance**
+**Step 6: Connect to Instance** </br>
 Wait for instance state: "Running"
 
-**Connect SSh to local Terminal**
+**Connect SSh to local Terminal** </br>
 
-SSH connection example:
-**ssh -i your-key.pem ec2-user@public-ip**
+SSH connection example: </br>
+**ssh -i your-key.pem ec2-user@public-ip** 
 
 
  Copy :- ssh -i "aws-demo.pem" ubuntu@ec2-3-90-26-52.compute-1.amazonaws.com
 Log into Local Terminal:- Run Commands
 
-$ ls -a
-$ chmod 400 aws-demo.pem
-$ ssh -i "aws-demo.pem" ubuntu@ec2-3-90-26-52.compute-1.amazonaws.com
+$ ls -a </br>
+$ chmod 400 aws-demo.pem </br>
+$ ssh -i "aws-demo.pem" ubuntu@ec2-3-90-26-52.compute-1.amazonaws.com </br>
 
-Enter
+Enter </br>
 Now you are connected to remote Server on Local Cli.
