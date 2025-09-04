@@ -92,8 +92,8 @@ Create User.
 Aws Console > Search s3 > Buckets > Create Bucket > </br>
 name :- aws-demo-bucket </br>
 block public Access :- NA </br>
-I Acknowledge > Create Bucket.
-select Bucket > Upload a file.
+I Acknowledge > Create Bucket </br>
+select Bucket > Upload a file </br>
 
 **Download AWS Command Line Interface (AWSCLI)**
 
@@ -101,8 +101,8 @@ select Bucket > Upload a file.
 **install or update the latest version of awscli**> 
 **Linux**
 
-**$Sudo apt-get update**
-**$sudo apt install unzip**
+**$Sudo apt-get update** </br>
+**$sudo apt install unzip** </br>
 
 on chrome :- Installing or updating to the latest version of the AWS CLI,</br>
 AWS CLI install and update instructions.</br>
