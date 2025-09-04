@@ -97,9 +97,10 @@ select Bucket > Upload a file.
 
 **Download AWS Command Line Interface (AWSCLI)**
 
-**go to google :-** awscliv2 download for ubuntu
+**go to google :-** awscliv2 download for ubuntu</br>
 **install or update the latest version of awscli**> 
 **Linux**
 
-# sudo apt install unzip
+# #Sudo apt-get update
+# #sudo apt install unzip
 
