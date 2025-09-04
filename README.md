@@ -90,6 +90,6 @@ Create User.
 
                                                         **Task-3 :- Create s3 Bucket ?**
 Aws Console > Search s3 > Buckets > Create Bucket > </br>
-name :- aws-demo-bucket
-block public Access :- NA
+name :- aws-demo-bucket </br>
+block public Access :- NA </br>
 I Acknowledge > Create Bucket.
