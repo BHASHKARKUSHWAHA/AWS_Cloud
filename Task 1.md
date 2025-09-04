@@ -113,18 +113,18 @@ $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.z
 copy zip file and paste in remote cli </br>
 
 $ unzip awscliv2.zip </br>
-$ cd aws .
-$ ls.
-$ aws Cat install  .
-$ sudo ./aws/install  .
-$ aws --version  .
+$ cd aws </br>
+$ ls  </br>
+$ aws Cat install  </br>
+$ sudo ./aws/install  </br>
+$ aws --version  </br>
 
 $ aws configure </br>
 #Aws Console > IAM > Users > aws-demo-user > create access key > CLI > i understand > next > create Access key.</br>
 (i) Access Key   (ii) Secret Access Key </br>
 copy and Paste on remote cli </br>
 
-$ aws s3 ls  . </br>
+$ aws s3 ls  </br>
 check upload file in s3.
 
 
