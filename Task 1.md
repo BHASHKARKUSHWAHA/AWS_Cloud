@@ -101,8 +101,8 @@ select Bucket > Upload a file.
 **install or update the latest version of awscli**> 
 **Linux**
 
-# $Sudo apt-get update
-# $sudo apt install unzip
+**$Sudo apt-get update**
+**$sudo apt install unzip**
 
 on chrome :- Installing or updating to the latest version of the AWS CLI,</br>
 AWS CLI install and update instructions.</br>
