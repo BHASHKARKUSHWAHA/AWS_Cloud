@@ -3,9 +3,7 @@ Task 1 :- Create EC2 Instance ? </br>
 Task 2 :- Create A User ? </br>
 Task 3 :- Create A s3 Bucket ?
 
-**Create EC2 Instance ?**
-
-**Creating an EC2 Instance:** </br>
+**Task 1 - Create EC2 Instance ?**
 
 **Step 1: Sign in to AWS Console** </br>
 Go to https://aws.amazon.com/
