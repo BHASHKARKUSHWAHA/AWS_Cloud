@@ -28,10 +28,9 @@ Choose "Launch Instance" from dropdown
 **Step 4: Configure Instance Details**
 
 **1. Name and Tags**
-Enter instance name ( "my-web-server")
+Enter instance name ( "AWS-Demo")
 
-**2. Choose AMI (Amazon Machine Image)
-Select from:**
+**2. Choose AMI (Amazon Machine Image)**
 
 Ubuntu Server
 
@@ -41,20 +40,21 @@ Select based on needs:**
 t2.micro (free tier eligible)
 
 **4. Key Pair**
-Create new key pair or use existing
+Create new key pair
+Name :- aws-demo
 
-Download .pem file (keep it secure!)
+.pem file (keep it secure!)
 
 Required for SSH access
 
 **5. Network Settings**
-VPC: Default or custom
+VPC: Default
 
-Subnet: Choose availability zone
+Subnet:Default
 
 Auto-assign Public IP: Enable
 
-Security Groups: Create new or use existing
+Security Groups: Create new
 
 Add rules: SSH (port 22), HTTP (80), HTTPS (443)
 
@@ -69,9 +69,18 @@ Click "Launch Instance"
 **Step 6: Connect to Instance**
 Wait for instance state: "Running"
 
-**Get public IP/DNS from instance details**
+**Connect SSh to local Terminal**
 
 SSH connection example:
-
-bash
 **ssh -i your-key.pem ec2-user@public-ip**
+
+
+ Copy :- ssh -i "aws-demo.pem" ubuntu@ec2-3-90-26-52.compute-1.amazonaws.com
+Log into Local Terminal:- Run Commands
+
+$ ls -a
+$ chmod 400 aws-demo.pem
+$ ssh -i "aws-demo.pem" ubuntu@ec2-3-90-26-52.compute-1.amazonaws.com
+
+Enter
+Now you are connected to remote Server on Local Cli.
