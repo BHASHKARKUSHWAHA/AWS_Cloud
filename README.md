@@ -17,36 +17,34 @@ Enter your credentials
 **Step 2: Navigate to EC2 Service**</br>
 From AWS Management Console
 
-Search for "EC2" in services
-
-Click on "EC2"
+Search - "EC2" > Click on "EC2"
 
 **Step 3: Launch Instance**</br>
 Click "Launch Instance" button
 
 **Step 4: Configure Instance Details**
 
-**1. Name and Tags**
+**1. Name and Tags**</br>
 Enter instance name ( "AWS-Demo")
 
-**2. Choose AMI (Amazon Machine Image)**
+**2. Choose AMI (Amazon Machine Image)** </br>
 
 Ubuntu Server
 
-**3. Instance Type
-Select based on needs:**
+**3. Instance Type </br>
+Select based on needs:** </br>
 
 t2.micro (free tier eligible)
 
-**4. Key Pair**
-Create new key pair
+**4. Key Pair** </br>
+Create new key pair </br>
 Name :- aws-demo
 
-.pem file (keep it secure!)
+.pem file (keep it secure!) </br>
 
-Required for SSH access
+Required for SSH access </br>
 
-**5. Network Settings**
+**5. Network Settings** </br>
 VPC: Default
 
 Subnet:Default
