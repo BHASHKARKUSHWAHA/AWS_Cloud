@@ -93,3 +93,13 @@ Aws Console > Search s3 > Buckets > Create Bucket > </br>
 name :- aws-demo-bucket </br>
 block public Access :- NA </br>
 I Acknowledge > Create Bucket.
+select Bucket > Upload a file.
+
+**Download AWS Command Line Interface (AWSCLI)**
+
+**go to google :-** awscliv2 download for ubuntu
+**install or update the latest version of awscli**> 
+**Linux**
+
+# sudo apt install unzip
+
