@@ -1,0 +1,4 @@
+Login to AWS Console in Mumbai Region > EC2 > Launch Instances > 
+Name :- windows-server
+Application and OS Images (Amazon Machine Image) :- amazon linux
+Instance type :- t3.micro
